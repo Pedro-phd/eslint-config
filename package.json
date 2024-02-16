@@ -1,0 +1,16 @@
+{
+  "name": "phd-eslint-config",
+  "description": "Eslint config used by Pedro Dominici",
+  "version": "1.0.0",
+  "author": "pedro.dominici",
+  "private": false,
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier-vue": "^5.0.0",
+    "eslint-plugin-vue": "^9.21.1",
+    "prettier": "^3.2.5"
+  }
+}
