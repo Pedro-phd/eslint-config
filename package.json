@@ -1,11 +1,20 @@
 {
   "name": "phd-eslint-config",
   "description": "Eslint config used by Pedro Dominici",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "pedro.dominici",
   "private": false,
   "main": "index.js",
   "license": "ISC",
+  "peerDependencies": {
+    "eslint": "^8.0.0",
+    "typescript": ">=5"
+  },
+  "peerDependenciesMeta": {
+    "typescript": {
+      "optional": true
+    }
+  },
   "dependencies": {
     "eslint": "^8.56.0",
     "eslint-config-prettier": "^9.1.0",
