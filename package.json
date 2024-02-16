@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-phd",
   "description": "Eslint config used by Pedro Dominici",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "pedro.dominici",
   "private": false,
   "main": "index.js",

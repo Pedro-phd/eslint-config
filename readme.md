@@ -9,10 +9,10 @@ Tasks to finalize the package
 
 First step
 ```bash
-$ npm install eslit-config-phd
+$ npm install eslint-config-phd
 ```
 
-in `eslintrs.js`
+in `eslintrc.js`
 
 ```js
 module.exports {
